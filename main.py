@@ -1,3 +1,5 @@
+## Este programa simples exibe um menu onde será possível escolher inserir nomes em uma lista, excluir ou apenas mostrar a lista.
+## Fiz para aprender um pouco mais de python e estruturas de dados.
 lista = []
 def menu():
     print("1 - Adicionar nome na lista")
